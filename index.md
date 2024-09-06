@@ -6,3 +6,6 @@ I added a header to the file.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] \(optional) Introduce myself to the world
